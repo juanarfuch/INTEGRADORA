@@ -1,1 +1,2 @@
-consola.log(1);
+console.log(1);
+VarDate
